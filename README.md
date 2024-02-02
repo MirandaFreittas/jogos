@@ -1,2 +1,2 @@
 # jogos
-paginas de jogos
+pagina de jogos
